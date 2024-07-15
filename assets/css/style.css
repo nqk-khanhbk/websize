@@ -460,6 +460,20 @@ a{
     padding-bottom: 80px;
     background: #EFEFEF;
 }
+.section-seven .inner-head{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.section-seven .inner-head .inner-desc{
+    font-size: 20px;
+    color:#777777;
+    font-weight: bold;
+}
+.section-seven .inner-head .inner-title{
+    font-size: 48px;
+    line-height: 1.1;
+    font-weight: 700;
+}
 .section-seven .inner-wrap{
     display: flex;
 }
@@ -469,7 +483,7 @@ a{
     background: #ffffff;
     border-radius: 10px;
     padding-top: 3rem;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     text-align: center;
 }
 
@@ -480,4 +494,151 @@ a{
     margin: auto;
     border-radius: 50%
 }
+.section-seven .inner-box .inner-content-wrap{
+    padding: 30px;
+    padding-bottom: 0;
+}
+.section-seven .inner-content-wrap .inner-title{
+    font-size: 30px;
+    font-weight: 600;
+}
+.section-seven .inner-content-wrap .inner-desc{
+    color: #777777;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.section-seven .inner-content-wrap .inner-soict{
+    padding-top: 15px;
+    text-align: center;
+}
+.section-seven .inner-content-wrap .inner-item{
+    display: inline-block;
+    text-align: center;
+    border-top-right-radius: 30%;
+    border-top-left-radius: 30%;
+    margin-right: 6px;
+    padding: 10px;
+    background: #efefef;
+    transition: all 0.3s;
+}
+.section-seven .inner-content-wrap .inner-item:hover{
+    background-color: #F7D9C4;
+}
+.section-seven .inner-content-wrap .inner-icon{
+    transition: all 0.3s;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #14191e;
+    font-size: 20px;
+}
 /* end section-seven  */
+
+/* section-eight  */
+.section-eight{
+    padding-top: 0px;
+    padding-bottom: 60px;
+    background-color: #efefef;
+}
+
+.section-eight .inner-image img{
+    border-radius: 15px;
+    object-fit: cover;
+    height: 500px;
+    width: 100%;
+    display: block;
+   position: relative;
+}
+.section-eight .inner-wrap{
+    z-index: 4 ;
+    display: flex;
+    background: white;
+    padding: 1rem 2rem;
+    width: 90%;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: -3rem;
+    border-radius: 1rem;
+    position: relative;  
+}
+.section-eight .inner-wrap .inner-box{
+    flex: 0 0 20%;
+    max-width: 20%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.section-eight .inner-wrap .inner-box .inner-desc{
+    margin-bottom: 0;
+    color: #777777;
+}
+.section-eight .inner-wrap .inner-box .inner-title{
+    margin-bottom: 0;
+}
+.section-eight .inner-box .inner-section .inner-bottom{
+    background-color: #232323;
+    border-color: #232323;
+    color: #ffffff;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px 10px;
+    text-align: center;
+}
+
+/* end section-eight  */
+
+/* section-nine  */
+.section-nine{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background: #31363b;
+}
+.section-nine .inner-content{
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.section-nine .inner-wrap{
+    display: flex;
+}
+.section-nine .inner-wrap .inner-box{
+    width: calc(100% / 3 - 20px);
+    margin-right: 20px;
+}
+.section-nine .inner-wrap .inner-box .inner-content{
+    padding: 25px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+.section-nine .inner-wrap .inner-box .inner-content .inner-desc{
+    color: #777777;
+    font-size: 25px;
+}
+.section-nine .inner-wrap .inner-box .inner-flex{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.section-nine .inner-box .inner-flex .inner-icon{
+    position: absolute;
+    top: -35px;
+    right: 10px;
+    color: #777777;
+    font-size: 35px;
+}
+.section-nine .inner-box .inner-flex .inner-icon::before{
+    content: "\f10e";
+    font-weight: 900;
+    font-family: "Font Awesome 6 Free";
+}
+.section-nine .inner-wrap .inner-box .inner-flex .inner-image img{
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    margin: auto;
+    margin-right: 1rem;
+    border-radius: 50%
+  
+}
+
+/* end section-nine  */
