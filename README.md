@@ -15,4 +15,5 @@
      - Nếu bạn muốn xem sản phẩm của mình, thì bấm vào đây [đây](https://websize.vercel.app/) mình đã deploy web lên vercel
     
   ## Link video giới thiệu sản phẩm
+  https://github.com/user-attachments/assets/32f064af-f238-4e1e-a01d-0ce60de0c6ee
   
