@@ -10,6 +10,9 @@
   2. Cách chạy trang web:
      - Copy link này về máy tính của bạn: [link](https://github.com/nqk-khanhbk/websize.git)
      - Tải VsCode về máy của bạn và mở Terminal lên 
-     - Kéo code về máy bằng cách nhập lệnh   git pull origin  rồi gắn cái link bạn copy ở trên vào
+     - Kéo code về máy bằng cách nhập lệnh `git pull origin `rồi gắn cái link bạn copy ở trên vào
      - Khi đã kéo xong,sẽ hiện các file index.html và assets,muốn chạy được code bạn bấm chuột phải vào file index.html và ấn vào Open with live Server 
      - Nếu bạn muốn xem sản phẩm của mình, thì bấm vào đây [đây](https://websize.vercel.app/) mình đã deploy web lên vercel
+    
+  ## Link video giới thiệu sản phẩm
+  
