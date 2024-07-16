@@ -16,4 +16,12 @@
     
   ## Link video giới thiệu sản phẩm
   https://github.com/user-attachments/assets/32f064af-f238-4e1e-a01d-0ce60de0c6ee
+
+  ## Tài liệu đã học
+  [Tài liệu học CSS](https://www.w3schools.com/css/default.asp)
+  
+  [Tài liệu học html](https://www.w3schools.com/html/default.asp)
+
+  ## Sản phẩm khác
+  Sản phẩm trên đơn thuần chỉ là code theo một bản figma có sẵn,không có ý tưởng mới lạ.Ngoài ra em cũng có một project khác nhưng chưa hoàn thiện hết,chỉ xong được phần fontend và cơ sở dữ liệu nhưng chưa xử lý backend(sản phẩm đang trong quá trình hoàn thiện)
   
