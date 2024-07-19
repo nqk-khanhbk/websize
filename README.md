@@ -23,5 +23,11 @@
   [Tài liệu học html](https://www.w3schools.com/html/default.asp)
 
   ## Sản phẩm khác
-  Sản phẩm trên đơn thuần chỉ là code theo một bản figma có sẵn,không có ý tưởng mới lạ.Ngoài ra em cũng có một project khác nhưng chưa hoàn thiện hết,chỉ xong được phần fontend và cơ sở dữ liệu nhưng chưa xử lý backend(sản phẩm đang trong quá trình hoàn thiện)
+ - Sản phẩm trên đơn thuần chỉ là code theo một bản figma có sẵn,không có ý tưởng mới lạ.Ngoài ra em cũng có một project khác nhưng chưa hoàn thiện hết,chỉ xong được phần fontend và cơ sở dữ liệu nhưng chưa xử lý backend(sản phẩm đang trong quá trình hoàn thiện).Sản phẩm sử dụng các ngôn ngữ như HTML5,CSS3,Bootstrap4.
+ - Video sản phẩm 
+  https://github.com/user-attachments/assets/82c7193d-b7a8-446e-9ebd-259c25b222fe
+
+ - Link github sản phẩm:
+  https://github.com/nqk-khanhbk/Web_Banhang
+  
   
